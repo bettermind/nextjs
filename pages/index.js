@@ -14,7 +14,7 @@ export default function Home() {
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
         <Image
-        src="/output.png"
+        src="/cryptopunk7804.png"
         />
 
         <p className={styles.description}>
